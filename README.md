@@ -1,6 +1,6 @@
 # AllTV
 
-A new Flutter project.
+A new Live TV app.
 
 ## Getting Started
 
