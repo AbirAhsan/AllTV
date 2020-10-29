@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "669873534115",
+    "firebase_url": "https://alltv-dfd6d.firebaseio.com",
+    "project_id": "alltv-dfd6d",
+    "storage_bucket": "alltv-dfd6d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:669873534115:android:d38ad847554504c2cd7b16",
+        "android_client_info": {
+          "package_name": "com.livechannel.AllTV"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "669873534115-ogtvcn69cj9e0pf9uia0j3vjq3nf0ua2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.livechannel.AllTV",
+            "certificate_hash": "4158563a8e7e7daf9bea5c446b6ccabeabc73436"
+          }
+        },
+        {
+          "client_id": "669873534115-p2r2kvdl7i6lto03bq86lpccf1i51ngb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyClHy4IJ18A19u5zD0OkX5Sxd533lf05tY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "669873534115-p2r2kvdl7i6lto03bq86lpccf1i51ngb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

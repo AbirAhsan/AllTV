@@ -16,7 +16,9 @@ class HomePage extends StatelessWidget {
           ),
         ],
       ),
-      body: Container(),
+      body: Container(
+        child: Text('HELLO'),
+      ),
     );
   }
 }
